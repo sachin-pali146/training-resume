@@ -1,0 +1,15 @@
+.table > tbody > tr > td {
+    border-top: 0;
+}
+
+ul {
+    padding: 8px;
+}
+
+img {
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+}

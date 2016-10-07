@@ -1,0 +1,107 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    background: #E4E6E5;
+    color: #3D3D3D;
+}
+
+h1, h2, h3 {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+img {
+    margin: 5px 10px;
+    max-width: 100%;
+    border: 3px solid #ddd;
+}
+
+p {
+    margin: 0;
+    padding: 2px 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 5px;
+    list-style-position: inside;
+}
+
+td {
+    padding: 5px;
+    vertical-align: text-top;
+}
+
+#address {
+    float: right;
+    margin-right: 5%;
+}
+
+#address p {
+    margin: 0;
+    padding: 1px 5px 1px 0;
+    font-weight: bold;
+}
+
+#details {
+    clear: both;
+    background: #E4E6E5;
+    display: table;
+}
+
+#head {
+    background: #EAEAEA;
+    color: #4A4A4A;
+}
+
+#intro {
+    text-align: center;
+    width: 75%;
+    vertical-align: middle;
+}
+
+#project-1, #project-2, #projects, #work-exp {
+    clear: both;
+}
+
+#social {
+    clear: both;
+    font-size: 150%;
+    text-align: center;
+    padding: 0;
+}
+
+#social a {
+    border: 1px solid #E4E6E5;
+    background: #D6D6D6;
+    margin: 0;
+    padding: 2px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.float-left {
+    float: left;
+    width: 15%;
+}
+
+.float-right {
+    float: right;
+}
+
+.left-block {
+    float: left;
+    text-align: center;
+    width: 35%;
+
+}
+
+.right-block {
+    float: right;
+    width: 65%;
+}
